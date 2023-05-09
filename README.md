@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently working as a backend developer at one of India's fintech giant Paytm
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Akka
 - 👯 I’m looking to collaborate on hackathons, open-source projects and tech discussions
 - 💬 Ask me about java and backend
-- 📫 How to reach me: send an owl
-- ⚡ Fun fact: many publishers rejected harry potter
+- 📫 How to reach me: LinkedIn & Twitter
+- ⚡ Fun fact: Actors came before classes
 
 
 ### Experience in
