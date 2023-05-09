@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Akka
 - 👯 I’m looking to collaborate on hackathons, open-source projects and tech discussions
 - 💬 Ask me about java and backend
-- 📫 How to reach me: LinkedIn & Twitter
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sambhav-khajanchi-191a84179/) & [Twitter](https://twitter.com/SambhavKhajanc2)
 - ⚡ Fun fact: Actors came before classes
 
 
