@@ -2,4 +2,4 @@
 
 Brewing something up... ☕☕
 
-## [theved.ai](theved.ai)
+## [theved.ai](https://theved.ai)
