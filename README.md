@@ -9,9 +9,16 @@ Most recently, I founded **theved.ai**, where I built:
 - 🤖 An **agentic framework** powered by GPT-4-mini and OpenAI’s Agents SDK, integrating Gmail, Google Calendar, Tasks, and Slack using MCP for unified natural language workflows.
 - 🖥 A **cross-platform app** (Swift + Electron) for voice transcription, feeding audio memory into the RAG system for persistent, searchable knowledge.
 
-In ui, it offered 
-  - An onboarding screen where user connects to their tools and grant Ved permissions to call tool APIs on user's behalf.
-  - A chat interface from which user can request for cross tool data retrieval and workflow execution
+The UI offers:  
+• Onboarding to connect user tools and grant API permissions.  
+• A chat interface for cross-tool data retrieval and workflow execution.
+
+## 🌐 Community
+I also **host an open-source AI builders community**:
+
+| Join the conversation | Slack | Code |
+|-----------------------|-------|------|
+| AI tooling, Ved PRs, memes | [Slack Invite](https://join.slack.com/t/thevedai/shared_invite/zt-38q9owy11-Ysll9m72xd8Gs4zBhjuzkw) | [github.com/theved-ai](https://github.com/theved-ai) |
 
 ## 🛠 Tech I Work With
 - **Languages:** Python, Swift, SQL, Java
