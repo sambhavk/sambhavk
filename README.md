@@ -25,7 +25,7 @@ I'm looking to join a **fast-moving team** working on **AI agents, automation, o
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sambhav-khajanchi-191a84179/)
 - ✉️ sam.khajanchi@gmail.com  
-- 🧠 [theved.ai](https://your-startup-site.com) *(will opensource the code soon...)*
+- 🧠 [https://github.com/theved-ai](https://github.com/theved-ai)
 
 ---
 
